@@ -1,0 +1,1 @@
+這是簡易的透過dlib在python上進行人臉辨識，python版本3.8
